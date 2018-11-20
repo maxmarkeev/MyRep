@@ -1,2 +1,1 @@
 # MyRep
-Pavlov's guide
